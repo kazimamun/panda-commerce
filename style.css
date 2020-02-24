@@ -1,0 +1,13 @@
+.container{
+    margin-bottom: 100px;
+}
+.slide_bg{
+    background-color: #fceae8;
+    border-radius: 10px;
+}
+.carousel{
+    padding: 20px 40px;
+}
+.budget{
+    color: blueviolet;
+}
