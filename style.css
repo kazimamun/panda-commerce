@@ -11,3 +11,33 @@
 .budget{
     color: blueviolet;
 }
+.cat-watch, .cat-bag, .cat-shoe{
+    padding: 10px 30px;
+    color: white;
+    border-radius: 10px;
+}
+.cat-watch{
+    background-color: orange;
+}
+.cat-bag{
+    background-color: palevioletred;
+}
+.cat-shoe{
+    background-color: blue;
+}
+.categorys img{
+    width: 100px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+#contact{
+    height: 350px;
+}
+#contact h6{
+    color: gray;
+}
+footer{
+    text-align: center;
+}
